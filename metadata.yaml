@@ -1,0 +1,65 @@
+_repo: Travels-through-France-and-Italy_2311
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Seccombe, Thomas
+    birthdate: 1866
+    deathdate: 1923
+    gutenberg_agent_id: '7999'
+    url: http://www.gutenberg.org/2009/agents/7999
+creator:
+  author:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollet, T. (Tobias)
+    - Smollett, Tobias George
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+description: "Travels through France and Italy is travel literature by Tobias Smollett\
+  \ published in 1766.\nAfter suffering the loss of his only child, 15-year-old Elizabeth,\
+  \ in April 1763, Smollett left England in June of that year. Together with his wife,\
+  \ he traveled across France to Nice. In the autumn of the next year, he visited\
+  \ Genoa, Rome, Florence and other towns of Italy. After staying in Nice for the\
+  \ winter he returned to London by June 1765. Travels through France and Italy is\
+  \ his account of this journey.\nSmollett describes in great detail the natural phenomena,\
+  \ history, social life, economics, diet and morals of the places he visited. Smollett\
+  \ had a lively and pertinacious curiosity, and, as his novels prove, a very quick\
+  \ eye. He foresaw the merits of Cannes, then a small village, as a health-resort,\
+  \ and the possibilities of the Corniche road.\nThe writing is often characterized\
+  \ by spleen, acerbity and quarrelsomeness. Smollett quarrels with innkeepers, postilions\
+  \ and fellow travelers and holds many (though by no means all) foreigners he meets\
+  \ in contempt. He derides the Roman Catholic faith, dueling, petty and proud nobility,\
+  \ such domestic arrangements as the cicisbeo, and many other French and Italian\
+  \ customs.\nLaurence Sterne, who met Smollett in Italy, satirized Smollett's jaundiced\
+  \ attitude in the character of Smelfungus in A Sentimental Journey Through France\
+  \ and Italy, which was written in part as an answer to Smollett's book.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2311'
+  wikidata: Q7836104
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel -- Early works to 1800'
+- !lcsh 'Italy -- Description and travel -- Early works to 1800'
+- !lcc 'DC'
+- !lcsh 'Nice (France) -- Description and travel -- Early works to 1800'
+- !lcsh 'France -- Social life and customs -- 18th century'
+- !lcsh 'Smollett, T. (Tobias), 1721-1771 -- Travel -- Italy'
+- !lcsh 'Italy -- Social life and customs -- 18th century'
+- !lcc 'DG'
+- !lcsh 'Smollett, T. (Tobias), 1721-1771 -- Travel -- France'
+- GITenberg
+title: Travels through France and Italy
+url: http://www.gutenberg.org/ebooks/2311
+wikipedia:
+- https://fr.wikipedia.org/wiki/Voyages_%C3%A0_travers_la_France_et_l%27Italie
+- https://en.wikipedia.org/wiki/Travels_through_France_and_Italy
+- https://commons.wikimedia.org/wiki/Category:Travels_through_France_and_Italy
