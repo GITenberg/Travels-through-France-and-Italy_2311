@@ -1,5 +1,5 @@
 _repo: Travels-through-France-and-Italy_2311
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Seccombe, Thomas
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '7999'
     url: http://www.gutenberg.org/2009/agents/7999
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smollett, T. (Tobias)
@@ -37,6 +40,8 @@ description: "Travels through France and Italy is travel literature by Tobias Sm
   \ attitude in the character of Smelfungus in A Sentimental Journey Through France\
   \ and Italy, which was written in part as an answer to Smollett's book.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2311#Travels-through-France-and-Italy
 gutenberg_issued: '2000-09-01'
 gutenberg_type: Text
 identifiers:
